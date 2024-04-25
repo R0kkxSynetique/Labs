@@ -1,0 +1,151 @@
+<mxfile host="Electron" modified="2024-04-25T07:36:03.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="t282xI-GtIFHgBZBI65Y" version="22.0.2" type="device">
+  <diagram name="Page-1" id="R7qjd9GtqZFXz9M6Hgjc">
+    <mxGraphModel dx="1493" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IRC5UhWcGCblBRdGDLej-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="770" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-1" value="AWS CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="540" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-5" target="IRC5UhWcGCblBRdGDLej-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-5" value="Docker Desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-39" value="9418&lt;br&gt;TCP,UPD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-6" target="IRC5UhWcGCblBRdGDLej-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-6" value="Git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-8" target="IRC5UhWcGCblBRdGDLej-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-8" value="Maven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="872" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-10" value="Windows 11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-25" value="Docker Commands(build, run, etc...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="540" width="156" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-31" value="" style="group" vertex="1" connectable="0" parent="IRC5UhWcGCblBRdGDLej-30">
+          <mxGeometry width="156" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-31">
+          <mxGeometry width="156" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-24" value="IDEA InteliJ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-31">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-3" value="IDEA Docker plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-30">
+          <mxGeometry x="16" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="640" width="310" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-35">
+          <mxGeometry width="310" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-23" value="Hyper-V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-35">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-33" value="" style="group" vertex="1" connectable="0" parent="IRC5UhWcGCblBRdGDLej-35">
+          <mxGeometry x="10" y="40" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-33">
+          <mxGeometry width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-4" value="Docker Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-33">
+          <mxGeometry x="20" y="50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-14" value="WSL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-33">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-16" value="Containers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-33">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IRC5UhWcGCblBRdGDLej-33" source="IRC5UhWcGCblBRdGDLej-4" target="IRC5UhWcGCblBRdGDLej-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-18" value="Images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-33">
+          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IRC5UhWcGCblBRdGDLej-33" source="IRC5UhWcGCblBRdGDLej-4" target="IRC5UhWcGCblBRdGDLej-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-25" target="IRC5UhWcGCblBRdGDLej-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="620" />
+              <mxPoint x="220" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-3" target="IRC5UhWcGCblBRdGDLej-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="270" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-45" value="" style="group" vertex="1" connectable="0" parent="IRC5UhWcGCblBRdGDLej-46">
+          <mxGeometry width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-45">
+          <mxGeometry width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-44" value="AWS Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-45">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-43" value="AWS CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-45">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-40" value="443&lt;br&gt;TCP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IRC5UhWcGCblBRdGDLej-1" target="IRC5UhWcGCblBRdGDLej-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="466" y="685" width="164" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-53">
+          <mxGeometry x="3" width="157" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-52" value="JDK - Java17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-53">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-53">
+          <mxGeometry x="19.5" y="40" width="121" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-62" value="JRE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-53">
+          <mxGeometry x="19.5" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-50" value="JVM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-53">
+          <mxGeometry x="37.5" y="80" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="971" y="592.5" width="270" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-72">
+          <mxGeometry width="270" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-69" value="GitHub git server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-72">
+          <mxGeometry x="10" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRC5UhWcGCblBRdGDLej-70" value="Lan git server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRC5UhWcGCblBRdGDLej-72">
+          <mxGeometry x="140" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
