@@ -122,6 +122,7 @@ graph LR
     A[Views] --> B[Controllers]
     B --> C[Services]
     C --> D[Repositories]
+    D --> E[Database]
 ```
 
 ---
