@@ -46,7 +46,7 @@ Non-Bundled Plugins:
 Kotlin: 241.14494.240-IJ
 ```
 
-### Containers Engins - Docker
+### Containers Engine - Docker
 
 ```sh
 docker --version
