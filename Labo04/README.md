@@ -62,4 +62,3 @@ Let's get started!
 ### Deploy the app (single-tier)
 
 [Source](https://docs.docker.com/language/java/develop/)
-
