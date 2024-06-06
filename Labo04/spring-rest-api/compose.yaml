@@ -2,8 +2,6 @@ services:
   server:
     build:
       context: .
-    ports:
-      - 8080:8080
     depends_on:
       db:
         condition: service_healthy
@@ -18,12 +16,19 @@ services:
       - POSTGRES_DB=potatoes
       - POSTGRES_USER=potatoes
       - POSTGRES_PASSWORD=potatoes
-    ports:
-      - 5432:5432
     healthcheck:
       test: [ "CMD", "pg_isready", "-U", "potatoes" ]
       interval: 10s
       timeout: 5s
       retries: 5
+  api-gateway:
+    image: nginx
+    volumes:
+      - ./nginx:/etc/nginx
+    ports:
+      - 80:80
+    depends_on:
+      - server
+
 volumes:
   db-data:
